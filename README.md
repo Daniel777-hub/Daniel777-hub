@@ -5,7 +5,10 @@
 
   <img height = "500px" src = "https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47sh4porccu4yu85z6m9ue7pb9be0iqtddrm6qudwt&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>  
 
-  # Hello There 👋, I'm Daniel
+<!--Title -->
+<h1 align="center">
+  Hello There 👋, I'm Daniel
+</h1>
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel777-hub&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/><br/>
