@@ -3,7 +3,7 @@
   【Ｈｅｌｌｏ Ｗｏｒｌｄ】
 </h1>
 
-  <img height = "500px" src = "https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47sh4porccu4yu85z6m9ue7pb9be0iqtddrm6qudwt&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>  
+  <img align="center" height = "500px" src = "https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47sh4porccu4yu85z6m9ue7pb9be0iqtddrm6qudwt&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>  
 
 <!--Title -->
 <h1 align="center">
@@ -11,7 +11,7 @@
 </h1>
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel777-hub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel777-hub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
   <img height="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel777-hub&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
