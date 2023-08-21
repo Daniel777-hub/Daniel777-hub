@@ -11,7 +11,7 @@
 </h1>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel777-hub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel777-hub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
   <img height="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel777-hub&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
