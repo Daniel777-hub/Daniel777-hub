@@ -7,11 +7,11 @@
 
 <!--Title -->
 <h1 align="center">
-  Hello There 👋, I'm Daniel
+  Olá, eu sou o Marcus Daniel | Hi, I am Marcus Daniel 👋
 </h1>
 
 <div align="center">
-  <a href="https://github.com/iamgois">
+  <a href="https://github.com/daniel777-hub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel777-hub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel777-hub&layout=compact&langs_count=7&theme=dark"/>
 </div>
