@@ -2,9 +2,9 @@
 <h1 align="center">
   【Ｈｅｌｌｏ Ｗｏｒｌｄ】
 </h1>
-
+<div align="center">
   <img align="center" height = "500px" src = "https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47sh4porccu4yu85z6m9ue7pb9be0iqtddrm6qudwt&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>  
-
+</div>
 <!--Title -->
 <h1 align="center">
   Hi, I am Marcus Daniel 👋
