@@ -28,6 +28,7 @@
   <img align="center" alt="Javascript" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Typescript" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="React" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Angular" height="30em" width="40em" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" />
   <img align="center" alt="Nodejs" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
     
