@@ -42,7 +42,8 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 <div align="center">
-    <img height="150em" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=daniel777-hub&hide=contribs,issues&rank_icon=github&hide_border=true&show_icons=true&icon_color=ffc222&bg_color=72090A&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel777-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel777-hub&layout=compact&langs_count=6&theme=tokyonight"/>
     <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniel777-hub&hide=jinja,css,html&hide_border=true&show_icons=true&bg_color=72090A&title_color=ffc222&text_color=fff&layout=compact&langs_count=7"/>
   </div>
     
