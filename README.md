@@ -16,7 +16,7 @@
   <div>
 🌆 Based in Brasília, DF  
 
-🎓 Full Stack Java Engineer | Experienced with Java, Spring, Angular, React, JavaScript, TypeScript, PostgreSQL, MongoDB, Docker, Swagger, Postman, IntelliJ, and VS Code  
+🎓 Full Stack Java | Experienced with Java, Spring, Angular, React, JavaScript, TypeScript, PostgreSQL, MongoDB, Docker, Swagger, Postman, IntelliJ, and VS Code  
 
 📖 Passionate about learning, literature, and software development best practices  
 
